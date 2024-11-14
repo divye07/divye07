@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently working on detecting emotions using local CNN model.<br>AI and ML enthusiast<br>love to play cricket and valorant <br>Marvel fan<br>pursuing btech in cse with specialization in AI & ML<br>
-
+👋 Hello! I'm an AI and ML Enthusiast<br>
+🎓 Pursuing B.Tech in Computer Science (AI & ML)<br>
+🔍 Currently working on Emotion Detection using a Local CNN Model<br>
+🎮 Passionate Gamer (Valorant) & Cricket Lover<br>
+🌌 Marvel Universe Fan<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_whosidivye) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyeprakash7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prakash_divye) 

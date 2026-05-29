@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔬 I’m currently working on Auroral Labs – a healthcare IoT startup for pets 🐶🐾<br><br>📱 Looking for collaborators experienced in App Development<br><br>🤖 Currently learning Machine Learning and exploring AI/ML applications<br><br>🎮 Passionate about Valorant and tech-driven games<br><br>📷 Connect with me on Instagram: @_whoisdivye
+🔬 I’m currently working on Auroral Labs – a healthcare IoT startup for pets 🐶🐾<br><br>📱 Looking for collaborators experienced in App Development<br><br>🤖 Currently learning Machine Learning and exploring AI/ML applications<br><br>🎮 Passionate about Valorant and tech-driven games<br><br>📷 Connect with me on Instagram: @whoisdivye
 
 
 ## 🌐 Socials:

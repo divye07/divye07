@@ -151,10 +151,10 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api?username=divyeprakash07&show_icons=true&title_color=0E75B6&icon_color=0E75B6&text_color=E8E8E8&bg_color=16213E&hide_border=true&rank_icon=github" alt="Divye's GitHub Stats" width="100%"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=divye07&show_icons=true&title_color=0E75B6&icon_color=0E75B6&text_color=E8E8E8&bg_color=16213E&hide_border=true&rank_icon=github" alt="Divye's GitHub Stats" width="100%"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=divyeprakash07&layout=compact&title_color=0E75B6&icon_color=0E75B6&text_color=E8E8E8&bg_color=16213E&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=divye07&layout=compact&title_color=0E75B6&icon_color=0E75B6&text_color=E8E8E8&bg_color=16213E&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
@@ -168,7 +168,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyeprakash07&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=divye07&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" width="100%"/>
 </div>
 
 <br/>

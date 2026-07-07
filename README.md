@@ -160,15 +160,7 @@
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=divyeprakash07&theme=dark&hide_border=true&background=16213E&stroke=0E75B6&ring=0E75B6&fire=0E75B6&currStreakNum=E8E8E8&currStreakLabel=0E75B6&sideNums=E8E8E8&sideLabels=0E75B6&dates=E8E8E8" alt="GitHub Streak" width="100%"/>
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divye07&theme=onedark&no-frame=true&row=1&column=7" alt="trophies" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=divye07&theme=dark&hide_border=true&background=16213E&stroke=0E75B6&ring=0E75B6&fire=0E75B6&currStreakNum=E8E8E8&currStreakLabel=0E75B6&sideNums=E8E8E8&sideLabels=0E75B6&dates=E8E8E8" alt="GitHub Streak" width="100%"/>
 </div>
 
 <br/>

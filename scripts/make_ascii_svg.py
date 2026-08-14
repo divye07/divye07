@@ -135,7 +135,7 @@ for r, row in enumerate(rows_txt):
 SB_Y = TITLEBAR_H + ART_H + PAD // 2 + CELL_H // 2
 lines.append(f'<text x="{PAD}" y="{SB_Y + ART_H//ROWS//2 + 6}" '
              f'font-family="monospace" font-size="10" fill="{TITLE_TEXT}">'
-             f'divye@github:~ $ whoami  →  Computer Vision Engineer</text>')
+             f'divye@github:~ $ whoami  →  ML Research Engineer</text>')
 
 lines.append("</svg>")
 

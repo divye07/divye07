@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 340" width="880" height="340">
+  <defs>
+    <linearGradient id="certGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="certBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4285f4" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title { font: 12px "Fira Code", monospace; fill: #7d8590; }
+  </style>
+
+  <!-- Container -->
+  <rect width="880" height="340" rx="10" fill="#0d1117"/>
+  <rect x="1" y="1" width="878" height="338" rx="9" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+  <rect x="1" y="1" width="878" height="338" rx="9" fill="url(#certGrad)"/>
+
+  <!-- Top highlight border bar -->
+  <path d="M 10 1 L 870 1" stroke="url(#certBorder)" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Title bar -->
+  <rect x="1" y="1" width="878" height="34" rx="9" fill="#21262d" opacity="0.6"/>
+  <circle cx="20" cy="18" r="5" fill="#ff5f57"/>
+  <circle cx="36" cy="18" r="5" fill="#febc2e"/>
+  <circle cx="52" cy="18" r="5" fill="#28c840"/>
+  <text x="440" y="22" text-anchor="middle" class="title">divye@github — gcloud / gh verify --credentials</text>
+
+  <!-- Cards -->
+  
+    <!-- Card 1: Professional ML Engineer -->
+    <g transform="translate(24, 68)">
+      <!-- Card background -->
+      <rect width="264" height="114" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <rect width="264" height="114" rx="6" fill="#4285f4" fill-opacity="0.04"/>
+      
+      <!-- Top Accent Line -->
+      <path d="M 6 1 L 258 1" stroke="#4285f4" stroke-width="2" stroke-opacity="0.8" stroke-linecap="round"/>
+
+      <!-- Icon Container -->
+      <rect x="14" y="14" width="28" height="28" rx="4" fill="#161b22" stroke="#4285f4" stroke-opacity="0.3" stroke-width="1"/>
+      <g transform="translate(16, 16)">
+        <path fill="#4285F4" d="M12 4C7.58 4 4 7.58 4 12c0 2.97 1.62 5.56 4.02 6.94l1.24-2.15C7.9 15.82 7 14.02 7 12c0-2.76 2.24-5 5-5s5 2.24 5 5c0 2.02-.9 3.82-2.26 4.79l1.24 2.15C18.38 17.56 20 14.97 20 12c0-4.42-3.58-8-8-8z"/>
+      </g>
+
+      <!-- Badge status pill -->
+      <rect x="172" y="14" width="78" height="18" rx="9" fill="#161b22" stroke="#4285f4" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="211" y="26" text-anchor="middle" font-family="'Fira Code', monospace" font-size="9" font-weight="bold" fill="#4285f4">GCP Certified</text>
+
+      <!-- Text -->
+      <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">Professional ML Engineer</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">GCP MLOps & Architecture</text>
+      <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="#4285f4">Google Cloud</text>
+    </g>
+    <!-- Card 2: TensorFlow Developer -->
+    <g transform="translate(304, 68)">
+      <!-- Card background -->
+      <rect width="264" height="114" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <rect width="264" height="114" rx="6" fill="#ff6f00" fill-opacity="0.04"/>
+      
+      <!-- Top Accent Line -->
+      <path d="M 6 1 L 258 1" stroke="#ff6f00" stroke-width="2" stroke-opacity="0.8" stroke-linecap="round"/>
+
+      <!-- Icon Container -->
+      <rect x="14" y="14" width="28" height="28" rx="4" fill="#161b22" stroke="#ff6f00" stroke-opacity="0.3" stroke-width="1"/>
+      <g transform="translate(16, 16)">
+        <path fill="#FF6F00" d="M12 2L4 6.5v9L12 20l8-4.5v-9L12 2zm0 2.3l5.5 3.1-2.5 1.4-3-1.7v7.8l-2 1.1V8.7l-3 1.7-2.5-1.4L12 4.3z"/>
+      </g>
+
+      <!-- Badge status pill -->
+      <rect x="172" y="14" width="78" height="18" rx="9" fill="#161b22" stroke="#ff6f00" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="211" y="26" text-anchor="middle" font-family="'Fira Code', monospace" font-size="9" font-weight="bold" fill="#ff6f00">DeepLearning.AI</text>
+
+      <!-- Text -->
+      <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">TensorFlow Developer</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Deep Learning & Vision Models</text>
+      <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="#ff6f00">DeepLearning.AI</text>
+    </g>
+    <!-- Card 3: Deep Learning Specialty -->
+    <g transform="translate(584, 68)">
+      <!-- Card background -->
+      <rect width="264" height="114" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <rect width="264" height="114" rx="6" fill="#76b900" fill-opacity="0.04"/>
+      
+      <!-- Top Accent Line -->
+      <path d="M 6 1 L 258 1" stroke="#76b900" stroke-width="2" stroke-opacity="0.8" stroke-linecap="round"/>
+
+      <!-- Icon Container -->
+      <rect x="14" y="14" width="28" height="28" rx="4" fill="#161b22" stroke="#76b900" stroke-opacity="0.3" stroke-width="1"/>
+      <g transform="translate(16, 16)">
+        <path fill="#76B900" d="M12 5c-3.87 0-7 3.13-7 7s3.13 7 7 7 7-3.13 7-7-3.13-7-7-7zm0 11.5c-2.48 0-4.5-2.02-4.5-4.5s2.02-4.5 4.5-4.5 4.5 2.02 4.5 4.5-2.02 4.5-4.5 4.5z"/>
+      </g>
+
+      <!-- Badge status pill -->
+      <rect x="172" y="14" width="78" height="18" rx="9" fill="#161b22" stroke="#76b900" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="211" y="26" text-anchor="middle" font-family="'Fira Code', monospace" font-size="9" font-weight="bold" fill="#76b900">NVIDIA Certified</text>
+
+      <!-- Text -->
+      <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">Deep Learning Specialty</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">NVIDIA DLI Computing</text>
+      <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="#76b900">NVIDIA DLI</text>
+    </g>
+    <!-- Card 4: GitHub Foundations -->
+    <g transform="translate(24, 196)">
+      <!-- Card background -->
+      <rect width="264" height="114" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <rect width="264" height="114" rx="6" fill="#22d3ee" fill-opacity="0.04"/>
+      
+      <!-- Top Accent Line -->
+      <path d="M 6 1 L 258 1" stroke="#22d3ee" stroke-width="2" stroke-opacity="0.8" stroke-linecap="round"/>
+
+      <!-- Icon Container -->
+      <rect x="14" y="14" width="28" height="28" rx="4" fill="#161b22" stroke="#22d3ee" stroke-opacity="0.3" stroke-width="1"/>
+      <g transform="translate(16, 16)">
+        <path fill="#22D3EE" d="M12 2C6.48 2 2 6.48 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.1-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2z"/>
+      </g>
+
+      <!-- Badge status pill -->
+      <rect x="172" y="14" width="78" height="18" rx="9" fill="#161b22" stroke="#22d3ee" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="211" y="26" text-anchor="middle" font-family="'Fira Code', monospace" font-size="9" font-weight="bold" fill="#22d3ee">Verified</text>
+
+      <!-- Text -->
+      <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">GitHub Foundations</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Core Git, CI & Collaboration</text>
+      <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="#22d3ee">GitHub Certified</text>
+    </g>
+    <!-- Card 5: GitHub Actions Certified -->
+    <g transform="translate(304, 196)">
+      <!-- Card background -->
+      <rect width="264" height="114" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <rect width="264" height="114" rx="6" fill="#39d353" fill-opacity="0.04"/>
+      
+      <!-- Top Accent Line -->
+      <path d="M 6 1 L 258 1" stroke="#39d353" stroke-width="2" stroke-opacity="0.8" stroke-linecap="round"/>
+
+      <!-- Icon Container -->
+      <rect x="14" y="14" width="28" height="28" rx="4" fill="#161b22" stroke="#39d353" stroke-opacity="0.3" stroke-width="1"/>
+      <g transform="translate(16, 16)">
+        <path fill="#39D353" d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm1 14.5h-2v-2h2zm0-4h-2V7h2z"/>
+      </g>
+
+      <!-- Badge status pill -->
+      <rect x="172" y="14" width="78" height="18" rx="9" fill="#161b22" stroke="#39d353" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="211" y="26" text-anchor="middle" font-family="'Fira Code', monospace" font-size="9" font-weight="bold" fill="#39d353">Verified</text>
+
+      <!-- Text -->
+      <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">GitHub Actions Certified</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Workflow Automation & CI/CD</text>
+      <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="#39d353">GitHub Certified</text>
+    </g>
+    <!-- Card 6: Advanced Security -->
+    <g transform="translate(584, 196)">
+      <!-- Card background -->
+      <rect width="264" height="114" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <rect width="264" height="114" rx="6" fill="#bc8cff" fill-opacity="0.04"/>
+      
+      <!-- Top Accent Line -->
+      <path d="M 6 1 L 258 1" stroke="#bc8cff" stroke-width="2" stroke-opacity="0.8" stroke-linecap="round"/>
+
+      <!-- Icon Container -->
+      <rect x="14" y="14" width="28" height="28" rx="4" fill="#161b22" stroke="#bc8cff" stroke-opacity="0.3" stroke-width="1"/>
+      <g transform="translate(16, 16)">
+        <path fill="#BC8CFF" d="M12 2L4 5v6.09c0 5.05 3.41 9.76 8 10.91 4.59-1.15 8-5.86 8-10.91V5l-8-3zm0 15c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5z"/>
+      </g>
+
+      <!-- Badge status pill -->
+      <rect x="172" y="14" width="78" height="18" rx="9" fill="#161b22" stroke="#bc8cff" stroke-opacity="0.4" stroke-width="1"/>
+      <text x="211" y="26" text-anchor="middle" font-family="'Fira Code', monospace" font-size="9" font-weight="bold" fill="#bc8cff">Verified</text>
+
+      <!-- Text -->
+      <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">Advanced Security</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Code Security & Vuln Analysis</text>
+      <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="#bc8cff">GitHub Certified</text>
+    </g>
+
+  <!-- Footer status bar -->
+  <text x="24" y="324" font-family="'Fira Code', monospace" font-size="10" fill="#545d68">
+    status: 6/6 verified credentials loaded &amp; active
+  </text>
+  <text x="856" y="324" text-anchor="end" font-family="'Fira Code', monospace" font-size="10" fill="#22d3ee">
+    Google Cloud • GitHub • DeepLearning.AI • NVIDIA DLI
+  </text>
+</svg>

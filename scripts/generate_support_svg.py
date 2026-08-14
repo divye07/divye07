@@ -1,0 +1,74 @@
+#!/usr/bin/env python3
+"""
+Generate an aesthetically pleasing, dark-terminal styled 'Support / Ko-fi' SVG button/card.
+Matches the GitHub dark theme (#0d1117 / #161b22) and cyan (#22d3ee) / gold (#f2cc60) accents.
+
+Usage:
+    python scripts/generate_support_svg.py [output.svg]
+"""
+import os
+import sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "..", "support.svg")
+
+W = 440
+H = 72
+
+svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
+  <defs>
+    <linearGradient id="supportGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f2cc60" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#1f6feb" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="supportBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f2cc60" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0.8"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="{W}" height="{H}" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="{W-2}" height="{H-2}" rx="11" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
+  <rect x="1" y="1" width="{W-2}" height="{H-2}" rx="11" fill="url(#supportGrad)"/>
+  <rect x="1" y="1" width="{W-2}" height="{H-2}" rx="11" fill="none" stroke="url(#supportBorder)" stroke-width="1.2" stroke-opacity="0.7"/>
+
+  <!-- Left Icon Container (Coffee Cup) -->
+  <g transform="translate(18, 16)">
+    <rect width="40" height="40" rx="8" fill="#21262d" stroke="#f2cc60" stroke-opacity="0.4" stroke-width="1"/>
+    <!-- Coffee Cup SVG Icon -->
+    <path fill="#f2cc60" d="M10 13h16c.55 0 1 .45 1 1v7c0 3.31-2.69 6-6 6h-6c-3.31 0-6-2.69-6-6v-7c0-.55.45-1 1-1zm17 2v4c0 1.1-.9 2-2 2h-1v-6h1c1.1 0 2 .9 2 2zM7 29h22c.55 0 1 .45 1 1s-.45 1-1 1H7c-.55 0-1-.45-1-1s.45-1 1-1z"/>
+    <!-- Steam / Warmth lines -->
+    <path stroke="#22d3ee" stroke-width="1.5" stroke-linecap="round" fill="none" d="M12 9c0-1.5 1-2 1-3.5M18 9c0-1.5 1-2 1-3.5M24 9c0-1.5 1-2 1-3.5">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Text Info -->
+  <text x="72" y="32" font-family="'Fira Code', monospace" font-size="13" font-weight="bold" fill="#ffffff">
+    Support ML &amp; Vision Research
+  </text>
+  <text x="72" y="50" font-family="'Fira Code', monospace" font-size="11" fill="#7d8590">
+    ko-fi.com/<tspan fill="#22d3ee" font-weight="bold">divyeprakash</tspan> ☕ <tspan fill="#f2cc60">Buy me a coffee</tspan>
+  </text>
+
+  <!-- Right Pill Badge -->
+  <g transform="translate({W - 90}, 24)">
+    <rect width="72" height="24" rx="12" fill="#21262d" stroke="#22d3ee" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="36" y="16" text-anchor="middle" font-family="'Fira Code', monospace" font-size="10" font-weight="bold" fill="#22d3ee">
+      Ko-fi ↗
+    </text>
+  </g>
+</svg>"""
+
+os.makedirs(os.path.dirname(os.path.abspath(OUT)), exist_ok=True)
+with open(OUT, "w", encoding="utf-8") as f:
+    f.write(svg)
+
+print(f"saved {OUT}")

@@ -106,24 +106,7 @@
 
 <br/>
 
-## 📊 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=divye07&show_icons=true&title_color=22d3ee&icon_color=39d353&text_color=e6edf3&bg_color=0d1117&hide_border=true&rank_icon=github" alt="Divye's GitHub Stats" width="100%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divye07&layout=compact&title_color=22d3ee&icon_color=39d353&text_color=e6edf3&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=divye07&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=22d3ee&fire=39d353&currStreakNum=e6edf3&currStreakLabel=22d3ee&sideNums=e6edf3&sideLabels=22d3ee&dates=7d8590" alt="GitHub Streak" width="100%"/>
-</div>
-
-<br/>
 
 ## ☕ Support
 

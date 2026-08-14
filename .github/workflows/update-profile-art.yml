@@ -42,10 +42,16 @@ jobs:
           GH_PROFILE_USER: divye07
         run: python scripts/generate_streak_svg.py
 
+      - name: Generate About, Certs, and Support SVGs
+        run: |
+          python scripts/generate_about_svg.py
+          python scripts/generate_certs_svg.py
+          python scripts/generate_support_svg.py
+
       - name: Commit updated SVGs
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add contrib-heatmap.svg streak.svg data/contributions.json
+          git add contrib-heatmap.svg streak.svg about-me.svg certs.svg support.svg data/contributions.json
           git diff --cached --quiet || git commit -m "chore: auto-update profile art [skip ci]"
           git push

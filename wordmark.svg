@@ -1,0 +1,182 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342" height="278" viewBox="0 0 342 278">
+<defs>
+<clipPath id="wipe"><rect x="0" y="0" height="278" width="0"><animate attributeName="width" values="0;342" keyTimes="0;1" calcMode="linear" begin="0s" dur="0.8s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect width="342" height="278" fill="#0d1117"/>
+<rect x="1" y="1" width="340" height="276" rx="6" fill="#111722" stroke="#30363d" stroke-width="1"/>
+<rect x="1" y="1" width="340" height="28" rx="6" fill="#30363d" opacity="0.5"/>
+<circle cx="18" cy="15" r="5" fill="#ff5f57"/>
+<circle cx="33" cy="15" r="5" fill="#febc2e"/>
+<circle cx="48" cy="15" r="5" fill="#28c840"/>
+<text x="171" y="19" text-anchor="middle" font-family="monospace" font-size="11" fill="#7d8590">divye@github — wordmark</text>
+<g clip-path="url(#wipe)">
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2174;0.2500;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  ::: ::  :::::: c:::-::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: ::: ::: ::: :::::: -::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::  :: :::  :::::   ::::  -::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: :::  ::::     ::   -::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  :::   :::     ::   -::::::</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2500;0.2826;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  ::: ::* :::::: *::  ::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: ::: ::: ::: ::::::  ::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::  :: :::  :::::   ::::  -::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: :::  ::::     ::   -::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  :::   :::     ::   -::::::</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2826;0.3152;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::* ::: ::* :::::: :::::::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: ::: ::: ::: :::::: :::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::  :: :::  :::::   ::::  :::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: :::  ::::     ::   :::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  :::   :::     ::   :::::::</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3152;0.3478;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::* ::: ::* :::::: :::::::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: ::: ::::::: :::::: :::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::: ::: ::: ::::::   ::::  :::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: :::  ::::    :::   ::::::c</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  :::   :::    :::   ::::::%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3478;0.3804;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::* ::::::* :::::: :::%:::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: ::: :::::::::::::: ::::::%</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">`:: ::: ::: ::::::   ::::  :::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">`:::::: :::  ::::    :::   ::::::c</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">``::::  :::   :::    :::   ::::::%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.3804;0.4130;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">`:::::* ::::::* :::::: ::: :::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">`:::::: ::: :::::::::::::: ::::::%</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">``` ::: ::: ::::::  :::::  :::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">```:::: :::  ::::    :::   ::::::c</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">```:::  :::   :::    :::   ::::::%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.4130;0.4457;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">``::::* ::::::* :::::: ::: :::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">``::::: ::: :::::::::::::: ::::::%</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">``` ::: ::: ::::::  :::::  :::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">````::: :::  ::::    :::   ::::::c</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">````::  :::   :::    :::   ::::::%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.4457;0.4783;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">`:::::* ::::::* :::::: ::: :::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">`:::::: ::: :::::::::::::: ::::::%</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">``` ::: ::: ::::::  :::::  :::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">```:::: :::  ::::    :::   ::::::c</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">```:::  :::   :::    :::   ::::::%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.4783;0.5109;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::* ::::::* :::::: :::%:::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: ::: :::::::::::::: ::::::%</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">`:: ::: ::: ::::::   ::::  :::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">`:::::: :::  ::::    :::   ::::::c</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">``::::  :::   :::    :::   ::::::%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.5109;0.5435;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::* ::: ::* :::::: :::::::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: ::: ::::::: :::::: :::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::: ::: ::: ::::::   ::::  :::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: :::  ::::    :::   ::::::c</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  :::   :::    :::   ::::::%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.5435;0.5761;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::* ::: ::* :::::: :::::::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: ::: ::: ::: :::::: :::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::  :: :::  :::::   ::::  :::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: :::  ::::     ::   :::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  :::   :::     ::   :::::::</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.5761;0.6087;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  ::: ::* :::::: *::  ::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: ::: ::: ::: ::::::  ::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::  :: :::  :::::   ::::  -::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: :::  ::::     ::   -::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  :::   :::     ::   -::::::</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.6087;0.6413;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  ::: ::  :::::: c:::-::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: ::: ::: ::: :::::: -::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::  :: :::  :::::   ::::  -::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: :::  ::::     ::   -::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  :::   :::     ::   -::::::</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.6413;0.6739;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::   :: ::  :::::: c:::=::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::::::  :: ::: ::: :::::: =::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::  ::  ::  :::::   ::::  =::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::::::  ::  :::::    ::   =::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::   ::   :::     ::   =::::::</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.6739;0.7065;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  =:: ::: :::::: c:::=::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: =:: ::: ::: :::::: =::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::  :: =::  :::::   ::::  =::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: =::  :::::    ::   =::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  =::   :::     ::   =::::::</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.7065;0.7391;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::  =:: ::: c::::::*:::=::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::: =:: ::: ::: :::::: =::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::  :: =::  :::::   ::::  =::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::: =::  :::::    ::   =::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::   :::     ::   =::::::</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.7391;0.7717;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::  #:: ::: c::::::*:::=::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::: #:: ::: ::: :::::: =::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::  ::  ::  :::::   ::::  =::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::  +::::    ::   =::::``</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::   :::     ::   =::::``</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.7717;0.8043;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::   :: ::: c::::::*:::=:::::`</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  :: ::: ::: :::::: =:::::`</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::  ::  ::  :::::   ::::  =::::` </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::  :::::    ::   =:::```</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::   :::     ::   =:::```</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.8043;0.8370;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::   :: ::: c::::::*:::=::::``</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  :: ::: ::: :::::: =::::``</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::  ::  ::  :::::   ::::  =:::`` </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::  :::::    ::   =::````</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::   :::     ::   =::````</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.8370;0.8696;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::   :: ::: c::::::*:::=:::::`</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  :: ::: ::: :::::: =:::::`</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::  ::  ::  :::::   ::::  =::::` </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::  :::::    ::   =:::```</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::   :::     ::   =:::```</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.8696;0.9022;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::  #:: ::: c::::::*:::=::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::: #:: ::: ::: :::::: =::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::  ::  ::  :::::   ::::  =::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::  +::::    ::   =::::``</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::   :::     ::   =::::``</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.9022;0.9348;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::  =:: ::: c::::::*:::=::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::: =:: ::: ::: :::::: =::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::  :: =::  :::::   ::::  =::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#:::::: =::  :::::    ::   =::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">#::::::  ::   :::     ::   =::::::</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.9348;0.9674;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  =:: ::: :::::: c:::=::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: =:: ::: ::: :::::: =::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::  :: =::  :::::   ::::  =::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::: =::  :::::    ::   =::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::  =::   :::     ::   =::::::</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;0.9674;1" dur="3.6799999999999997s" repeatCount="indefinite"/>
+<text x="18" y="105.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::   :: ::  :::::: c:::=::::::</text>
+<text x="18" y="121.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::::::  :: ::: ::: :::::: =::::::</text>
+<text x="18" y="136.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::  ::  ::  :::::   ::::  =::::: </text>
+<text x="18" y="152.0" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">:::::::  ::  :::::    ::   =::::::</text>
+<text x="18" y="167.5" font-family="monospace" font-size="14" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">::::::   ::   :::     ::   =::::::</text>
+</g>
+</g>
+</svg>

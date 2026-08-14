@@ -1,0 +1,51 @@
+name: Update profile art
+
+# Refreshes the contribution graph SVG daily from real data.
+# Runs daily, plus whenever you push to main, plus on-demand.
+
+"on":
+  schedule:
+    - cron: "17 6 * * *"   # ~06:17 UTC every day (~11:47 IST)
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  heatmap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install system font (DejaVu for wordmark)
+        run: sudo apt-get install -y fonts-dejavu-core
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch contribution data
+        env:
+          GH_PROFILE_USER: divye07
+        run: python scripts/fetch_contributions.py
+
+      - name: Render contribution heatmap SVG
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Generate streak SVG
+        env:
+          GH_PROFILE_USER: divye07
+        run: python scripts/generate_streak_svg.py
+
+      - name: Commit updated SVGs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add contrib-heatmap.svg streak.svg data/contributions.json
+          git diff --cached --quiet || git commit -m "chore: auto-update profile art [skip ci]"
+          git push

@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="875" viewBox="0 0 840 875">
+<defs>
+<clipPath id="cr0"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="0.000s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr1"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="0.110s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr2"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="0.220s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr3"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="0.330s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr4"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="0.440s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr5"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="0.550s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr6"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="0.660s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr7"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="0.770s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr8"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="0.880s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr9"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="0.990s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr10"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="1.100s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr11"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="1.210s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr12"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="1.320s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr13"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="1.430s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr14"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="1.540s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr15"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="1.650s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr16"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="1.760s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr17"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="1.870s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr18"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="1.980s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr19"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="2.090s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr20"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="2.200s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr21"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="2.310s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr22"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="2.420s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr23"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="2.530s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr24"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="2.640s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr25"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="2.750s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr26"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="2.860s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr27"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="2.970s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr28"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="3.080s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr29"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="3.190s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr30"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="3.300s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr31"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="3.410s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr32"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="3.520s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr33"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="3.630s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr34"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="3.740s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr35"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="3.850s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr36"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="3.960s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr37"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="4.070s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr38"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="4.180s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr39"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="4.290s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr40"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="4.400s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr41"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="4.510s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr42"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="4.620s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr43"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="4.730s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr44"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="4.840s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr45"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="4.950s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr46"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="5.060s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr47"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="5.170s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr48"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="5.280s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr49"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="5.390s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr50"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="5.500s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr51"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="5.610s" dur="0.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="cr52"><rect x="0" y="0" height="15" width="0"><animate attributeName="width" values="0;800" keyTimes="0;1" calcMode="linear" begin="5.720s" dur="0.110s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect width="840" height="875" fill="#0d1117"/>
+<rect x="1" y="1" width="838" height="873" rx="6" fill="#111722" stroke="#30363d" stroke-width="1"/>
+<rect x="1" y="1" width="838" height="30" rx="6" fill="#30363d" opacity="0.5"/>
+<circle cx="18" cy="16" r="5" fill="#ff5f57"/>
+<circle cx="33" cy="16" r="5" fill="#febc2e"/>
+<circle cx="48" cy="16" r="5" fill="#28c840"/>
+<text x="420" y="20" text-anchor="middle" font-family="monospace" font-size="11" fill="#7d8590">divye@github — ascii-portrait</text>
+<g clip-path="url(#cr0)" transform="translate(20,40)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                                                                                    </text>
+</g>
+<g clip-path="url(#cr1)" transform="translate(20,55)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                                                                                    </text>
+</g>
+<g clip-path="url(#cr2)" transform="translate(20,70)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                                                                                    </text>
+</g>
+<g clip-path="url(#cr3)" transform="translate(20,85)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                                                                                    </text>
+</g>
+<g clip-path="url(#cr4)" transform="translate(20,100)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                                                                                    </text>
+</g>
+<g clip-path="url(#cr5)" transform="translate(20,115)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                                                                                    </text>
+</g>
+<g clip-path="url(#cr6)" transform="translate(20,130)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                             :-=*ccssss*=:                                          </text>
+</g>
+<g clip-path="url(#cr7)" transform="translate(20,145)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                        =*cs#%#%%##sccsss#s*-                                       </text>
+</g>
+<g clip-path="url(#cr8)" transform="translate(20,160)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                      +#####s####s*ccssss##%#s=                                     </text>
+</g>
+<g clip-path="url(#cr9)" transform="translate(20,175)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                    =s%#sss#####sssss##%%%#%%%#c+-:                                 </text>
+</g>
+<g clip-path="url(#cr10)" transform="translate(20,190)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                   c%##%%#%%%%#sscs#%%%%%@@%%%%%#c+-                                </text>
+</g>
+<g clip-path="url(#cr11)" transform="translate(20,205)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                  c%%%%%%%%%%%##sssss#######%@@@%%#*                                </text>
+</g>
+<g clip-path="url(#cr12)" transform="translate(20,220)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                 -%%%%%%%%%%%%%%##scc**+====+#%%@%%s-                               </text>
+</g>
+<g clip-path="url(#cr13)" transform="translate(20,235)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                 c%%%%%%%%%%%%%#sc*+==-::::-=+s%%%%#=                               </text>
+</g>
+<g clip-path="url(#cr14)" transform="translate(20,250)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                 c@%%%%%%%@%@%%s*+==-:::::-===*#%@%s:                               </text>
+</g>
+<g clip-path="url(#cr15)" transform="translate(20,265)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                 -%%%#s%@@%%#s*+==--:`   :-=++*s%@%+                                </text>
+</g>
+<g clip-path="url(#cr16)" transform="translate(20,280)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                 :%%%#*s#s*=-:::`      :--=+++*#%@#                                 </text>
+</g>
+<g clip-path="url(#cr17)" transform="translate(20,295)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                  s%%#++c***cc*+=---+s####cc*++s%%+                                 </text>
+</g>
+<g clip-path="url(#cr18)" transform="translate(20,310)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                   #@s+*+=**cs#++c++#%%%#scc=-+*##                                  </text>
+</g>
+<g clip-path="url(#cr19)" transform="translate(20,325)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                   -%s*+cs*##*sscc=-c#%#%#c#s++*#c                                  </text>
+</g>
+<g clip-path="url(#cr20)" transform="translate(20,340)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                   =sc++cssssccss+  +sc###sc*+=*s+=                                 </text>
+</g>
+<g clip-path="url(#cr21)" transform="translate(20,355)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                   **c+=--=+=-=s*:   =*==+=:`--*c:=                                 </text>
+</g>
+<g clip-path="url(#cr22)" transform="translate(20,370)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                   =c%+=-:`::=c=:     :++----=+*#==                                 </text>
+</g>
+<g clip-path="url(#cr23)" transform="translate(20,385)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                   =c%*==-:  -*+cs*++c*=++=====+#=-                                 </text>
+</g>
+<g clip-path="url(#cr24)" transform="translate(20,400)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                   -*%c+=--=+++csc***c*=+cc++=+c%=                                  </text>
+</g>
+<g clip-path="url(#cr25)" transform="translate(20,415)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                    :%#c+=+#%%#ss*==+*ss#%%*+*c%s                                   </text>
+</g>
+<g clip-path="url(#cr26)" transform="translate(20,430)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                     =@#s++sccc+=---:-=*cs#+=c#%:                                   </text>
+</g>
+<g clip-path="url(#cr27)" transform="translate(20,445)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                      c@#*+c++*++=======-=c+c#%*                                    </text>
+</g>
+<g clip-path="url(#cr28)" transform="translate(20,460)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                       +@%##c+==+cc++=--=cs#%%*                                     </text>
+</g>
+<g clip-path="url(#cr29)" transform="translate(20,475)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                        -%@%#c*+*c**+-:=s#%@%=                                      </text>
+</g>
+<g clip-path="url(#cr30)" transform="translate(20,490)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                         =%@@%%###%#####%%%#*                                       </text>
+</g>
+<g clip-path="url(#cr31)" transform="translate(20,505)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                         =s#%%@@@@@@@%%%%#c++:                                      </text>
+</g>
+<g clip-path="url(#cr32)" transform="translate(20,520)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                       ==:+scs#%%%%%%%%#s*+*s  :                                    </text>
+</g>
+<g clip-path="url(#cr33)" transform="translate(20,535)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                                  :-==+*-::c#ccss##sssc*++*#= : :=-::                               </text>
+</g>
+<g clip-path="url(#cr34)" transform="translate(20,550)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                             -+++++===c---::s#ccccccc*+=+c#=     -*---=::                           </text>
+</g>
+<g clip-path="url(#cr35)" transform="translate(20,565)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                        :-=++**+++==-c+---: -%%scc***++c#%=     `:+=--:-*-==:`                      </text>
+</g>
+<g clip-path="url(#cr36)" transform="translate(20,580)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                   :=+++++===++++=+=+s==-::-+*#ssssss#%@@+     `:::=+-:=*==-==+===:                 </text>
+</g>
+<g clip-path="url(#cr37)" transform="translate(20,595)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">                 :=++++==+++****+**-s+--=+c#s++==*##%%#s=:+-       -*- -*+:-====*=-=-:              </text>
+</g>
+<g clip-path="url(#cr38)" transform="translate(20,610)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">               :===-===::::--=+++*-=c=+*sccc+*=++-*#c+=:=+scc*=--:`:c- -c-:===-*+-=- :-             </text>
+</g>
+<g clip-path="url(#cr39)" transform="translate(20,625)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">              -+-:-+=+-:::-----=+=:-++*c*++*+++-=+=s*:-+++*+*cc*c*=+*: =* -====***-::``--           </text>
+</g>
+<g clip-path="url(#cr40)" transform="translate(20,640)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">             =----:=++=---=::::-+: :---=+++**-=+--+s# ==:+= ==: =- -c: += ===-=**=:::--::-          </text>
+</g>
+<g clip-path="url(#cr41)" transform="translate(20,655)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">            =+:---=-*+=-==-::::==   `:: ` :-*: -==c#+-=  +- --`:=- =* :+: ===-+*+--=-::-::-         </text>
+</g>
+<g clip-path="url(#cr42)" transform="translate(20,670)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">           -+*=--:-=+*-=++=-::-+: :: `::    =+ :=cc+-=: :* `--:-=: +* -+ :-==-+*=+=-:-=::::=`       </text>
+</g>
+<g clip-path="url(#cr43)" transform="translate(20,685)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">          -=-++=--:-+*=+*+==-:==::::``::` : -*: =+===-``=+ :-::==: ++ =- :--: ++++:-+=:  :--+-      </text>
+</g>
+<g clip-path="url(#cr44)" transform="translate(20,700)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">          ++:-++-:::=*=+*+=---=-:::: `:::  ::*-:*----:::+- ----=-` *-:=: :-:: +=+++*-:` :=--+=      </text>
+</g>
+<g clip-path="url(#cr45)" transform="translate(20,715)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">         -=++-:++=---*++c+=-:==-::::`::::  ::+-:+: ::::-* :---==:`:*:-=::`-:::+=c*+-:::-=--=-=      </text>
+</g>
+<g clip-path="url(#cr46)" transform="translate(20,730)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">         =-+=+=-=+**=**+c*===+-=-::-:::::  ::+-:+ :::: ++ --:-=-::=+ --:::::::++c+=--====-:::--     </text>
+</g>
+<g clip-path="url(#cr47)" transform="translate(20,745)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">        ++:==:=+=-=+**c+s**=====-----::::: ::+--+`::-::*::-----:::+-:--::::::-=*c++++==-::::::+     </text>
+</g>
+<g clip-path="url(#cr48)" transform="translate(20,760)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">       -**=:++::-==--+s*#c*===+=------:::-:::+=-+:::-:=* :-----::-=:---::::::=-cs***=-:::::::-==    </text>
+</g>
+<g clip-path="url(#cr49)" transform="translate(20,775)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">       *=+c=:=*+-::=--s*#sc*=++=-----==-:--::+==*::-=-*+ -=------==:----:::::+-#s*=--::----::---=   </text>
+</g>
+<g clip-path="url(#cr50)" transform="translate(20,790)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">      +*=-+c+--+**=-=-cc#sc*+**====--===--+- ==+*:-==+c-:-=------=-------:::-+-c=-----==--:::---=   </text>
+</g>
+<g clip-path="url(#cr51)" transform="translate(20,805)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">     ==c=:-=+*+--=***=*ss#sc+**+++=======-++:--+c:-==*+---=-=--===---------:===*--===+=-::::::-++:  </text>
+</g>
+<g clip-path="url(#cr52)" transform="translate(20,820)">
+<text font-family="monospace" font-size="13px" fill="#c9d1d9" xml:space="preserve" dominant-baseline="hanging">    -=+c=:-=--**=::----cs#sc*c*++++====+===c=--+*-===c==+-===========------:+-c#c+-=--:::--::-++==  </text>
+</g>
+<text x="20" y="855" font-family="monospace" font-size="10" fill="#7d8590">divye@github:~ $ whoami  →  Computer Vision Engineer</text>
+</svg>

@@ -1,6 +1,9 @@
 <!-- portrait: python scripts/prep_photo.py source-photo.jpg && python scripts/make_ascii_svg.py
      wordmark:  python scripts/make_wordmark_svg.py --mode rock
-     heatmap:   auto-updated daily by .github/workflows/update-profile-art.yml -->
+     heatmap:   auto-updated daily by .github/workflows/update-profile-art.yml
+     about:     python scripts/generate_about_svg.py
+     certs:     python scripts/generate_certs_svg.py
+     support:   python scripts/generate_support_svg.py -->
 
 <div align="center">
 
@@ -37,82 +40,43 @@
 <img src="./contrib-heatmap.svg" width="100%" alt="Divye's contribution heatmap" />
 
 <br/>
-
-## 👤 About Me
-
-- 🔭 **Current Role:** **ML Research Engineer** at [HiFy Club](https://hify.club) — building production computer vision systems, camera movement detection, court/net keypoint detection, and large-scale segmentation pipelines.
-- 🌱 **Focus Areas:** Deep in **MLOps** — deploying large vision models on **GCP** with Cloud Run, scale-to-zero GPU patterns, and service-to-service auth.
-- 👯 **Collaboration:** Open to **Computer Vision** & **MLOps** projects.
-- 🤝 **Interests:** Large-scale **model deployment** & **DL systems design**.
-- 📫 **Reach Me:** [divye.prakash07@gmail.com](mailto:divye.prakash07@gmail.com)
-- 📄 **Resume:** [View here](https://drive.google.com/file/d/1NY1FW4QNbcIzMObE4Mx-1YlME5a6ssdD/view?usp=sharing)
-- ⚡ **Fun Fact:** F1 freak 🏎️ & go-karting enthusiast 🏁
-
 <br/>
 
-## 🎓 Certifications
+<!-- About Me Terminal Widget -->
+<img src="./about-me.svg" width="100%" alt="About Divye Prakash" />
+
+<br/>
+<br/>
+
+<!-- Certifications Terminal Widget -->
+<img src="./certs.svg" width="100%" alt="Certifications" />
+
+<br/>
+<br/>
+
+## 📊 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=divye07&show_icons=true&title_color=22d3ee&icon_color=39d353&text_color=e6edf3&bg_color=0d1117&hide_border=true&rank_icon=github" alt="Divye's GitHub Stats" width="100%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divye07&layout=compact&title_color=22d3ee&icon_color=39d353&text_color=e6edf3&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="33.3%" align="center" valign="top">
-        <a href="https://github.com/divyeprakash07" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Foundations-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations"/>
-        </a>
-        <br/><b>GitHub Foundations</b>
-        <br/><small>GitHub Certified</small>
-      </td>
-      <td width="33.3%" align="center" valign="top">
-        <a href="https://github.com/divyeprakash07" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Actions--Certified-161b22?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-        </a>
-        <br/><b>GitHub Actions</b>
-        <br/><small>Automation & CI/CD</small>
-      </td>
-      <td width="33.3%" align="center" valign="top">
-        <a href="https://github.com/divyeprakash07" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Advanced--Security-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Advanced Security"/>
-        </a>
-        <br/><b>GitHub Security</b>
-        <br/><small>Code Security & Analysis</small>
-      </td>
-    </tr>
-    <tr height="10"></tr>
-    <tr>
-      <td width="33.3%" align="center" valign="top">
-        <a href="https://github.com/divyeprakash07" target="_blank">
-          <img src="https://img.shields.io/badge/Google--Cloud-ML--Engineer-1f6feb?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP ML Engineer"/>
-        </a>
-        <br/><b>Professional ML Engineer</b>
-        <br/><small>GCP MLOps & Architecture</small>
-      </td>
-      <td width="33.3%" align="center" valign="top">
-        <a href="https://github.com/divyeprakash07" target="_blank">
-          <img src="https://img.shields.io/badge/TensorFlow-Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Developer"/>
-        </a>
-        <br/><b>TensorFlow Developer</b>
-        <br/><small>DeepLearning.AI Certified</small>
-      </td>
-      <td width="33.3%" align="center" valign="top">
-        <a href="https://github.com/divyeprakash07" target="_blank">
-          <img src="https://img.shields.io/badge/NVIDIA--DLI-Deep--Learning-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA DLI"/>
-        </a>
-        <br/><b>Deep Learning Specialty</b>
-        <br/><small>NVIDIA DLI Certified</small>
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com/?user=divye07&theme=dark&hide_border=true&background=0d1117&stroke=1f6feb&ring=22d3ee&fire=39d353&currStreakNum=e6edf3&currStreakLabel=22d3ee&sideNums=e6edf3&sideLabels=22d3ee&dates=7d8590" alt="GitHub Streak" width="100%"/>
 </div>
 
 <br/>
-
-
-
-## ☕ Support
+<br/>
 
 <div align="center">
   <a href="https://ko-fi.com/divyeprakash" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi"/>
+    <img src="./support.svg" alt="Support Divye on Ko-fi"/>
   </a>
 </div>
 

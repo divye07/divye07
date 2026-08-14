@@ -53,7 +53,7 @@
 
       <!-- Text -->
       <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">Professional ML Engineer</text>
-      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">GCP MLOps & Architecture</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">GCP MLOps &amp; Architecture</text>
       <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="#4285f4">Google Cloud</text>
     </g>
     <!-- Card 2: TensorFlow Developer -->
@@ -77,7 +77,7 @@
 
       <!-- Text -->
       <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">TensorFlow Developer</text>
-      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Deep Learning & Vision Models</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Deep Learning &amp; Vision Models</text>
       <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="#ff6f00">DeepLearning.AI</text>
     </g>
     <!-- Card 3: Deep Learning Specialty -->
@@ -125,7 +125,7 @@
 
       <!-- Text -->
       <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">GitHub Foundations</text>
-      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Core Git, CI & Collaboration</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Core Git, CI &amp; Collaboration</text>
       <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="#22d3ee">GitHub Certified</text>
     </g>
     <!-- Card 5: GitHub Actions Certified -->
@@ -149,7 +149,7 @@
 
       <!-- Text -->
       <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">GitHub Actions Certified</text>
-      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Workflow Automation & CI/CD</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Workflow Automation &amp; CI/CD</text>
       <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="#39d353">GitHub Certified</text>
     </g>
     <!-- Card 6: Advanced Security -->
@@ -173,7 +173,7 @@
 
       <!-- Text -->
       <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">Advanced Security</text>
-      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Code Security & Vuln Analysis</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">Code Security &amp; Vuln Analysis</text>
       <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="#bc8cff">GitHub Certified</text>
     </g>
 

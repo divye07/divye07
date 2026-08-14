@@ -6,6 +6,7 @@ Matches the GitHub dark theme (#0d1117 / #161b22) and cyan (#22d3ee) / green (#3
 Usage:
     python scripts/generate_certs_svg.py [output.svg]
 """
+import html
 import os
 import sys
 
@@ -81,7 +82,7 @@ for idx, c in enumerate(CERTS):
     y = start_y + row * (row_h + gap_y)
 
     card = f"""
-    <!-- Card {idx+1}: {c['title']} -->
+    <!-- Card {idx+1}: {html.escape(c['title'])} -->
     <g transform="translate({x}, {y})">
       <!-- Card background -->
       <rect width="{col_w}" height="{row_h}" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
@@ -98,12 +99,12 @@ for idx, c in enumerate(CERTS):
 
       <!-- Badge status pill -->
       <rect x="{col_w - 92}" y="14" width="78" height="18" rx="9" fill="#161b22" stroke="{c['accent']}" stroke-opacity="0.4" stroke-width="1"/>
-      <text x="{col_w - 53}" y="26" text-anchor="middle" font-family="'Fira Code', monospace" font-size="9" font-weight="bold" fill="{c['accent']}">{c['badge']}</text>
+      <text x="{col_w - 53}" y="26" text-anchor="middle" font-family="'Fira Code', monospace" font-size="9" font-weight="bold" fill="{c['accent']}">{html.escape(c['badge'])}</text>
 
       <!-- Text -->
-      <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">{c['title']}</text>
-      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">{c['spec']}</text>
-      <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="{c['accent']}">{c['issuer']}</text>
+      <text x="14" y="60" font-family="'Fira Code', monospace" font-size="11.5" font-weight="bold" fill="#e6edf3">{html.escape(c['title'])}</text>
+      <text x="14" y="78" font-family="'Fira Code', monospace" font-size="9.5" fill="#7d8590">{html.escape(c['spec'])}</text>
+      <text x="14" y="96" font-family="'Fira Code', monospace" font-size="9.5" font-weight="bold" fill="{c['accent']}">{html.escape(c['issuer'])}</text>
     </g>"""
     cards_svg.append(card)
 

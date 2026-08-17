@@ -1,10 +1,10 @@
 {
   "username": "divye07",
-  "fetched_at": "2026-08-16T07:01:39.315394Z",
+  "fetched_at": "2026-08-17T07:19:10.389196Z",
   "total": 3248,
   "best_day": "2026-07-07",
   "best_count": 26,
-  "current_streak": 365,
+  "current_streak": 0,
   "longest_streak": 365,
   "monthly": {
     "2025-08": 134,
@@ -1481,6 +1481,10 @@
     {
       "date": "2026-08-16",
       "count": 2
+    },
+    {
+      "date": "2026-08-17",
+      "count": 0
     }
   ]
 }
